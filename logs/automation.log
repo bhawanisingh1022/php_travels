@@ -129,3 +129,5 @@
 17:45:10.574 [main] INFO  test_cases.Tc_001_AccountRegistration - ******test finish*****
 17:47:00.397 [main] INFO  test_cases.Tc_001_AccountRegistration - ***test start********
 17:47:05.502 [main] INFO  test_cases.Tc_001_AccountRegistration - ******test finish*****
+19:14:17.139 [main] INFO  test_cases.Tc_001_AccountRegistration - ***test start********
+19:14:22.334 [main] INFO  test_cases.Tc_001_AccountRegistration - ******test finish*****
